@@ -10,6 +10,7 @@
 
 # 项目结构
 项目结构如下：
+```cpp
 /pdf_fuzzing_project/
 ├── knowledge_base_builder/    # 所有用于构建知识库的代码都在这里
 │   ├── documents/                # 预处理后的PDF规范文档的文本嵌入向量
@@ -29,6 +30,7 @@
 ├── grammar.py                 # 模糊测试引擎的核心部分
 ├── fuzzer.py                  # 模糊测试引擎的主循环
 └── CrashChecker.py            # 模糊测试引擎的辅助模块
+```
 
 # 项目架构与核心思路
 ## 项目架构
