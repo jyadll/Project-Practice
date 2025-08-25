@@ -17,7 +17,8 @@
 ## 项目简介
 ### 基于语法生成的智能PDF模糊测试系统设计与实现（硕士毕设） 2024.9-至今
 具体见：
-https://github.com/jyadll/Master-s-Final-Project/tree/main
+https://github.com/jyadll/Master-s-Final-Project/tree/main （暂未公开）
+可查看详情：https://github.com/jyadll/Project-Practice/tree/main/Master's_Final_Project
 
 项目角色：独立负责人
 
